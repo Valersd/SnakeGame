@@ -23,3 +23,5 @@
 **I** - Immortality for a while. The inner walls will be no longer obstacles
 
 ## DOWNLOAD AND PLAY !!!
+
+SnakeGame-master\Snake.Game\bin\Debug\Snake.Game.exe
